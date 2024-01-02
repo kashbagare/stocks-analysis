@@ -1,7 +1,7 @@
 # stocks-analysis
 
 ## Overview of Project and Purpose
-The purpose of this Module Challenge was to use our newly learned Excel VBA skills to refactor code that we created previosuly in the module. The purpose of refactoring is to create a code that runs more efficiently which can speed up the process of data analysis. In this challenge, we used logic statements such as If-Then and For Loops as a way to sort through our data as well as arrays and various formatting elements. 
+Use of Excel VBA skills to refactor code. The purpose of refactoring is to create a code that runs more efficiently which can speed up the process of data analysis. Use logic statements such as If-Then and For Loops as a way to sort through our data as well as arrays and various formatting elements. 
 
 ## Results
 
